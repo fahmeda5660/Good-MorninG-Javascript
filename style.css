@@ -1,0 +1,9 @@
+.calculator_section{
+    background: green;
+    height: 450px;
+    width: 400px;
+    margin: auto;
+}
+.cal_content{
+    text-align: center;
+}
